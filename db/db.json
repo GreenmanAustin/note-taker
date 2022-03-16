@@ -1,0 +1,18 @@
+{
+  "notesArray": [
+    {
+      "title": "Test Title",
+      "text": "Test text"
+    },
+    {
+      "title": "New notre 1",
+      "text": "sdfsd",
+      "id": "1"
+    },
+    {
+      "title": "Test 4",
+      "text": "test 45",
+      "id": "2"
+    }
+  ]
+}
